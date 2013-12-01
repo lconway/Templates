@@ -1,0 +1,18 @@
+*{
+/*	margin: 0px;
+	padding: 0px;
+*/	font-family: "Comic Sans MS";
+}
+h1 {
+	margin-left: 30px;
+}
+#wrapper {
+/*	background-color: #F3FFB6;
+*/	border: 2px solid black;
+	margin: 0 auto;
+	width: 860px;	
+}
+.clear {
+	clear: both;
+}
+
